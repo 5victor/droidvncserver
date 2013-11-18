@@ -1,0 +1,1 @@
+cmd_/home/victor/flyaudio/8x26/tool/vnc/mod/touch.ko := arm-linux-gnueabi-ld -EL -r  -T /home/victor/flyaudio/msm8226/kernel/scripts/module-common.lds --build-id  -o /home/victor/flyaudio/8x26/tool/vnc/mod/touch.ko /home/victor/flyaudio/8x26/tool/vnc/mod/touch.o /home/victor/flyaudio/8x26/tool/vnc/mod/touch.mod.o
